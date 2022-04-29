@@ -1,8 +1,11 @@
 #include <iostream>
+#include <cassert>
 
 int main()
 {
-    std::cout << "asdkjsafkja" << std::endl;
+    bool prueba = true;
+
+    assert(prueba);
 
     return 0;
 }
