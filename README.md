@@ -1,11 +1,11 @@
-• Algoritmos y Estructuras de Datos
+##Algoritmos y Estructuras de Datos
 
 • K1051
 
 • 2022
 
-• Legajo.
+• 169126-0
 
-• Apellido.
+• Lazo
 
-• Nombre.
+• Carlos
