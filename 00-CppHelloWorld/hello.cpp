@@ -1,5 +1,5 @@
 /* Hello.cpp
- * Programa que dice "Hello World"
+ * Programa que imprime "Hello World"
  * Carlos
  * 20220429
  */
