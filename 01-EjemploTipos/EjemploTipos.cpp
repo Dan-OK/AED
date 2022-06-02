@@ -3,9 +3,7 @@
 
 int main()
 {
-    bool prueba = true;
-
-    assert(prueba); //asdjalkdjsadf
+    assert(true and true);
 
     return 0;
 }
