@@ -3,5 +3,5 @@
 - K1051
 - 2022
 - 169126-0
-- Lazo
-- Carlos
+- Lazo Corrales
+- Carlos Daniel
