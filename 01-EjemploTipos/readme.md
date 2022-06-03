@@ -16,3 +16,4 @@
     + Este es un trabajo no estructurado, que consiste en escribir un programa que ejemplifique el uso de los tipos de datos básicos de C++ vistos en clase: bool, char, unsigned, int, double, y string.
     + **Crédito Extra**
         + ¿Son esos realmente todos los tipos que vimos en clase? Justifique.
+        + **Respuesta**: No, vimos otros tipos de datos como float, void, long, long long, class, struct, short, etc.
