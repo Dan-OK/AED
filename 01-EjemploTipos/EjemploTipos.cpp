@@ -6,6 +6,8 @@
 
 #include <iostream>
 #include <cassert>
+#include <string>
+using namespace std::string_literals;
 
 int main()
 {
@@ -38,8 +40,16 @@ int main()
     assert( 100 < 1000 / 2 );
     
     // double
+    assert( 0.23 > -1.0 );
+    assert( 3E2 == 3e2 );
+    assert( 3E2 == 3 * 10* 10 );
+    assert( 3E2 == 300.0 );
+    assert( 3E6 == 3000000.0 );
+    assert( 1.0 );
     
     // string
+    assert( "abcd"s == "ab"s + "cd"s );
+    assert( "Hola"s == "H"s + "o"s + "l"s + "a"s );
     
     return 0;
 }
